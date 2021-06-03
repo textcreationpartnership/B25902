@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter to a person of quality concerning the archbishop of Canterbury's sentence of deprivation against the bishop of St. Davids.</title>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25902</idno><idno type="EEBO-CITATION">27400003</idno>
+  <idno type="VID">205741</idno>
+  <idno type="EEBO-PROQUEST">2240891253</idno>
+  
+            <idno type="STC">Wing L1692A</idno>
+            <idno type="OCLC">27400003</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter to a person of quality concerning the archbishop of Canterbury's sentence of deprivation against the bishop of St. Davids.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the Year, 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Watson, Thomas, 1637-1717.</term>
+               <term type="personal_name">Tenison, Thomas, 1636-1715.</term>
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205741:1"/>
+            <p>A LETTER TO A Person of Quality, Concerning the Archbishop of <hi>CANTERBƲRY'S</hi> SENTENCE OF DEPRIVATION Against the Bishop of <hi>St. DAVIDS.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205741:2"/>
+            <pb n="3" facs="tcp:205741:2"/>
+            <head>A LETTER TO A Person of Quality.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I AM the less backward in obeying your Com<g ref="char:EOLhyphen"/>mands, to write my Thoughts of the Bishop of <hi>St. David</hi>'s Case; out of a persuasion that the best of men are not to be trusted with any greater Power, Civil or Ecclesiastical, than our Con<g ref="char:EOLhyphen"/>stitution warrants.</p>
+            <p>The chief imputation within Ecclesiastical Cog<g ref="char:EOLhyphen"/>nizance which he labors under, is said to be <hi>Symony:</hi> for this, if clearly proved, without presumptions and strain'd Inferences, that a Bishop is deprivable, I shall not deny; but the Question is,</p>
+            <p>Whether a Bishop of this Kingdom is, by the sole Authority of his Metropolitan, deprivable for <hi>Sy<g ref="char:EOLhyphen"/>mony?</hi>
+            </p>
+            <p>Till better inform'd, I cannot but hold the Nega<g ref="char:EOLhyphen"/>tive, with all imaginable deference to the proper Judges; and yet shall shew that our Law is not de<g ref="char:EOLhyphen"/>fective herein, but has appointed a proper Court for enquiring into, and punishing all such Enormities: nor is there any necessity of recourse to the Legi<g ref="char:EOLhyphen"/>slature.</p>
+            <pb n="4" facs="tcp:205741:3"/>
+            <p> It cannot be denied, that before the coming of the <hi>Normans,</hi> the Bishops sat in the same Court with the Civil Judges; but then if they had any judicial Pow<g ref="char:EOLhyphen"/>er,
+<note n="(a)" place="margin">
+                  <hi>Vid.</hi> Leges Edgari <hi>c.</hi> 5. de Comitiis. Cui quidem illius diacesis Episcopus &amp; Senator in<g ref="char:EOLhyphen"/>tersunto, quorum alter jura divina alter humana populum edoceto.</note> 'twas only in matters concerning <hi>the Di<g ref="char:EOLhyphen"/>vine Law:</hi> and it seems that they were to inform the <hi>People,</hi> who determined thereupon as they thought fit. Thus it continued till the year 1085.</p>
+            <p>But by a Law then made, Ecclesiastical Courts were set up separate from the Civil; and matters which concern'd
+<note n="(b)" place="margin">Spelm. Concil. 2 <hi>Vol.</hi> f. 14. <hi>ib.</hi> Nec causam quae ad regi<g ref="char:EOLhyphen"/>men anima<g ref="char:EOLhyphen"/>rum perti<g ref="char:EOLhyphen"/>net, ad judi<g ref="char:EOLhyphen"/>cium seculari<g ref="char:EOLhyphen"/>um hominum adducant.</note> the <hi>regiment of Souls,</hi> were ap<g ref="char:EOLhyphen"/>propriated to the Ecclesiastical: by this means, by degrees some Causes which affected Civil Rights, were <hi>in ordine ad. spiritualia,</hi> lest to their Jurisdicti<g ref="char:EOLhyphen"/>on. But as they often encroach'd upon the King's Courts of Law, they with great struggle kept the Power of restraining them, especially where the matter concern'd the King or any of his Peers: and therefore thô Excommunication was accounted pure<g ref="char:EOLhyphen"/>ly Spiritual, by the Constitution
+<note n="(c)" place="margin">Chron. Gerv. Dorob. Col. 1386. <hi>Mat. Paris.</hi> Const. Cap. 7. Nullus qui de Rege teneat in Capite, <hi>&amp;c.</hi>
+               </note> of <hi>Clarendon,</hi> 10 <hi>H.</hi> 2. in affirmance of the antient Law of the Kingdom, no Tenant in <hi>Capite</hi> is to be <hi>excommunicated,</hi> unless the King, if within the Kingdom, if not his Chief Justice, were first made acquainted with the Cause; nor were their Lands to be <hi>interdicted.</hi> Tho the Chief Justice in those times had greater Au<g ref="char:EOLhyphen"/>thority, than the Chief Justice of the <hi>King's Bench</hi> at this day; yet a Power has resided in that Court, to restrain and punish the encroachments of Persons exercising Ecclesiastical Jurisdiction; a remarkable instance of which is given in
+<note n="(d)" place="margin">Spelm. Re<g ref="char:EOLhyphen"/>liq. Icenia, <hi>f.</hi> 160. <hi>Anno</hi> 25. <hi>H.</hi> 8.</note> Sir <hi>H. Spelman</hi>'s Remains.</p>
+            <p>In relation to the present Question, I think these particulars may appear with great clearness.</p>
+            <p n="1">
+               <pb n="5" facs="tcp:205741:3"/> 1. That all Deprivations of Bishops or other Pre<g ref="char:EOLhyphen"/>lates, us'd, by the course of the Common Law, to be in <hi>Councils.</hi>
+            </p>
+            <p n="2">2. Tho the <hi>Councils</hi> were call'd Ecclesiastical, when the Summons was only or chiefly for Spiri<g ref="char:EOLhyphen"/>tual matters, or regarding the Canon Law; the Layty were by the Constitution of the Kingdom to be parties and privies to all the Canons which pass'd, and Judgments in pursuance of those or other Canons; and thus the practice continued till the time of Archbishop <hi>Becket.</hi>
+            </p>
+            <p n="3">3. Whatever judicial Power was exercis'd in Ec<g ref="char:EOLhyphen"/>clesiastical or Civil <hi>Councils</hi> of the Nation, devolv'd upon the House of Lords.</p>
+            <p n="4">4. No Statute has taken away the Jurisdiction in these matters, which has been vested in the House of Lords.</p>
+            <p n="5">5. Whatever the ordinary Jurisdiction of an Arch<g ref="char:EOLhyphen"/>bishop may be, and how much soever preserv'd, it cannot extend to the depriving of a Bishop.</p>
+            <p n="1">1st. By what has been observ'd of the first Insti<g ref="char:EOLhyphen"/>tution of Ecclesiastical Courts here in <hi>England</hi> it appears, that we have no occasion of enquiring in<g ref="char:EOLhyphen"/>to proceedings in such Causes before the time of <hi>W.</hi> I. after whose Accession to the Throne, till the 4th of his reign, no Prelate had been depriv'd: and then Archbishop <hi>Stigand</hi> led the way.</p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>Malmsb.</hi> De Gestis Pontif. <hi>f.</hi> 116.</note>
+               <hi>Malmsbury,</hi> tho a Bigot for the Court of <hi>Rome,</hi> owns that he was <hi>Deposed</hi> or <hi>Deprived, coacto con<g ref="char:EOLhyphen"/>cilio, "A Council</hi> being assembled.</p>
+            <p>
+               <hi>Hoveden</hi>
+               <note n="†" place="bottom">Hoveden <hi>f.</hi> 259. Eo<g ref="char:EOLhyphen"/>dem Anno concilium m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnum in octabis Pas. Wintoniae celebratum est, jubente &amp; praesente Rege <hi>W.</hi> dom. <hi>Alex.</hi> Papa consen<g ref="char:EOLhyphen"/>tionte.</note> calls this a <hi>Great Council</hi> celebrated at the <hi>command,</hi> and in the <hi>presence</hi> of King <hi>William,</hi>
+               <pb n="6" facs="tcp:205741:4"/>and with the <hi>consent</hi> of the Pope, <hi>in which Council</hi> he says <hi>Stigand is degraded. Hoveden</hi> speaks of the Deprivations in that <hi>Council,</hi> of <hi>Stigand</hi>'s Brother <hi>Agelmare</hi> Bishop of the <hi>East. Angles,</hi> and of some <hi>Abbots:</hi> which however he supposes to have been by an
+<note n="(a)" place="margin">Hoveden sup. Ques nulla evidenti causa nec con<g ref="char:EOLhyphen"/>cilia nec leges saeculi damna<g ref="char:EOLhyphen"/>bant.</note> abuse or straining, both of the Canons and the Law of the Land.</p>
+            <p>At the <hi>Council</hi> at <hi>Westminster,</hi> 2 <hi>H.</hi> 1. where as <hi>Hoveden</hi> expresses
+<note n="(b)" place="margin">Ib. f. 269. <hi>Ann.</hi> 1102. 2 <hi>H.</hi> 1. Prin<g ref="char:EOLhyphen"/>cipes regni omnes tam Ecclesiastici quam sacula<g ref="char:EOLhyphen"/>ris ordinis.</note> it, <hi>all the Princes</hi> or Great men <hi>of the Kingdom, both Ecclesiastical and Secular,</hi> were present; several Abbots of Foreign and English Birth
+<note n="(c)" place="margin">Plures Francigenae Abbates &amp; Angli sunt depositi, &amp; honoribus privati, quos injuste adqui sierunt aut in eis inhoneste. vixerunt.</note> were <hi>depos'd,</hi> and <hi>depriv'd</hi> of the Honours which they had acquired <hi>unjustly,</hi> or lived in <hi>dishonestly.</hi>
+            </p>
+            <p>
+               <hi>Eadmerus</hi> says
+<note n="(d)" place="margin">Eadm. Hist. f. 67.</note>
+               <q>From the Authority of the Holy Fathers, the surreption of the Symoniacal Heresy was condemn'd in <hi>that Council;</hi>
+               </q> and names several Abbots who were then depos'd
+<note n="(e)" place="margin">Eadm. sup. In qua culpa inventi depositi sunt Guido Abbas de Perscore, <hi>&amp;c.</hi>
+               </note> for <hi>Symony,</hi> in which he is follow'd by
+<note n="(f)" place="margin">Malmsb. de Gestis Pou<g ref="char:EOLhyphen"/>tif. f. 129. b.</note>
+               <hi>Malmsbury.</hi>
+            </p>
+            <p n="2">2dly. That the Laity were of right Members of those Ecclesiastical Councils, and so admitted to be till within the time of <hi>H.</hi> 2. is very evident.</p>
+            <p>
+               <hi>Lanfranc</hi> Archbishop of <hi>Canterbury</hi> in the time of <hi>W.</hi> I. having enquired what was the <hi>antient</hi>
+               <note n="(g)" place="margin">Modus tenendi Syno<g ref="char:EOLhyphen"/>dos apud Anglos.</note>
+               <hi>manner of holding Synods among the English;</hi> after mention of the order in which the Prelates are to sit, 'tis told him;
+<q>Then <note n="(h)" place="margin">Exinde introducantur Laici bonae conversationis, vel qui Electione conjugali interesse meruerint. Bib. Cot. sub effigie Cleopatrae, C. 8. f. 35. &amp; Spelm. Concil. 2 <hi>vol.</hi> f. 1.</note> let the Laity of good Conversation be introduced, or they who should deserve or obtain to be there by a joint <hi>Election.</hi>
+               </q>
+            </p>
+            <p>That the <hi>Laity</hi> were at the <hi>Council</hi> of <hi>Winchester</hi> above mention'd is pass'd Dispute; and so they were at the <hi>Council</hi> at <hi>Westminster,</hi> 2 <hi>H.</hi> I.</p>
+            <pb n="7" facs="tcp:205741:4"/>
+            <p>
+               <hi>Maud, H.</hi> 1st's intended Queen, having been en<g ref="char:EOLhyphen"/>ter'd into a Nunnery, <hi>Malmsbury</hi> says the matter came to a <hi>Disceptation,</hi> and informs us, that Arch<g ref="char:EOLhyphen"/>bishop <hi>Anselm</hi> could not be induc'd to consent to the Marriage till
+<note n="(a)" place="margin">Malmsb. f. 93. Res in disceptatio<g ref="char:EOLhyphen"/>nem venit.</note> 'twas sworn by lawful wit<g ref="char:EOLhyphen"/>nesses, that
+<note n="(b)" place="margin">Sine pro<g ref="char:EOLhyphen"/>fessione causa procorum ve<g ref="char:EOLhyphen"/>lum gessisse.</note> she wore a Veil only to avoid the im<g ref="char:EOLhyphen"/>portunity of Suitors, but was never profess'd.</p>
+            <p>This <hi>Disceptation</hi> and Consent of the Archbishop, was in a Council; where, as <hi>Eadmerus</hi> who was present informs us, she offer'd her self to be tried by the
+<note n="(c)" place="margin">Offert se judicio totius eccles. Anglo<g ref="char:EOLhyphen"/>rum, <hi>&amp;c.</hi>
+               </note> judgment of the whole Church of <hi>England.</hi>
+            </p>
+            <p>That this was an Ecclesiastical Cause is pass'd Dispute; yet for the Decision of it there convened the <hi>Bishops, Abbots,</hi> all the <hi>Nobles</hi> and <hi>Clergy</hi>
+               <note n="(d)" place="margin">Nobiles qui{que} ac reli<g ref="char:EOLhyphen"/>giosi ordinis viri.</note>. <hi>Anselm</hi> stated her case before all the <hi>Nobility</hi>
+               <note n="(e)" place="margin">Tota regni nobilitas po<g ref="char:EOLhyphen"/>pulus{que} mi<g ref="char:EOLhyphen"/>nor.</note> and <hi>Commons</hi> of the <hi>Realm;</hi> upon this judgment was given, that they might marry according to the
+<note n="(f)" place="margin">Secun<g ref="char:EOLhyphen"/>dum legem Christianam.</note> Christian Law; and then <hi>all crying together that the matter was justly Decreed, they were lawfully join'd to<g ref="char:EOLhyphen"/>gether.</hi>
+            </p>
+            <p>In the 8th of <hi>H.</hi> 1. an Ecclesiastical Council was held, wherein the Clergy were restrain'd from mar<g ref="char:EOLhyphen"/>rying; the very Act or Canons of which Council
+<note n="(g)" place="margin">Hoveden f. 270.</note>
+               <hi>Hoveden</hi> gives us at large: They are there said to be statuted or enacted, by the Archbishops and Bishops, in the presence of the King, <hi>with the Assent</hi> of his <hi>Earls</hi> and <hi>Barons.</hi>
+            </p>
+            <p>This being for Ecclesiastical matters, the Bishops are mention'd as having the chief Authority; yet the <hi>Act</hi> or <hi>Canons</hi> pass'd with the <hi>Assent</hi> of the Laity.</p>
+            <p>Thus in
+<note n="(h)" place="margin">Contin. ad Flor. Wi<g ref="char:EOLhyphen"/>gorn. f. 1127.</note> the 27th of that King, <hi>William</hi> Arch<g ref="char:EOLhyphen"/>bishop of <hi>Canterbury</hi> is said to have assembled a Ge<g ref="char:EOLhyphen"/>neral Council of all the Bishops, Abbots, and reli<g ref="char:EOLhyphen"/>gious
+<pb n="8" facs="tcp:205741:5"/>Persons; but then there resorted thither
+<note n="(a)" place="margin">Conflux<g ref="char:EOLhyphen"/>erant quo{que} illuc magnae multitudines Clericor. Lai<g ref="char:EOLhyphen"/>cor. tam divi<g ref="char:EOLhyphen"/>tum quam medioerium.</note>
+               <hi>great multitudes of Clergy</hi> and <hi>Laity,</hi> both rich and mean: where the croud
+<note n="(b)" place="margin">Quaedam propter nimi<g ref="char:EOLhyphen"/>um aestuantis turbae tumul<g ref="char:EOLhyphen"/>tum ab au<g ref="char:EOLhyphen"/>dientia judi<g ref="char:EOLhyphen"/>cantium pro<g ref="char:EOLhyphen"/>fligata.</note> and noise was so great, that 'twas difficult to judg which way the Majority determin'd.</p>
+            <p>King <hi>Stephen</hi> being taken Prisoner in the 6th of his Reign
+<note n="(c)" place="margin">Hunting. f. 223, 224. &amp; Malms. f. 106.</note>, his Brother the Pope's Legat, Bishop of <hi>Winchester,</hi> held an Ecclesiastical Council: that the Laity both Lords and Commons were there is pass'd Dispute, the Council having been adjourn'd in ex<g ref="char:EOLhyphen"/>pectation of the <hi>Representatives</hi> of the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> who soon after came, and declar'd themselves sent a <hi>Communione Londoniarum,</hi>
+               <q>from the Com<g ref="char:EOLhyphen"/>munity of <hi>London.</hi>
+               </q>
+            </p>
+            <p>And as late as 11 <hi>H.</hi> 2. a <hi>Council</hi> being held by <hi>Richard</hi> Archbishop of <hi>Canterbury,</hi> then the Pope's Legate, the Canons were promulged with the Assent of the King, and all <hi>the Nobility of the Kingdom</hi>
+               <note n="*" place="margin">Chron. Gerv. Dorob. f. 1429. Assensu Regis &amp; pri<g ref="char:EOLhyphen"/>morum omni<g ref="char:EOLhyphen"/>um regni haec subscripta promulgata sunt capitula, <hi>&amp;c.</hi>
+               </note>.</p>
+            <p n="3">3d. That whatever judicial Power was exercis'd in any of these Councils belongs now to the Lords in Parliament, cannot be denied, without question<g ref="char:EOLhyphen"/>ing their Jurisdiction in general.</p>
+            <p>'Tis observable that in the Council, 27 <hi>H</hi> 1. there were particular Persons <hi>Judicantes,</hi> judging, tho there was the Consent of more: who the Persons that judged were, appears by the Constitution of <hi>Clarendon,</hi>
+               <note place="margin">Quadril. lib. 5. in Princip. Gerv. Dorob. Col. 1586. Seldeni Ja<g ref="char:EOLhyphen"/>nus Anglor. p. 108. Habent pos<g ref="char:EOLhyphen"/>suas de Rege sicut Baroni<g ref="char:EOLhyphen"/>am.</note> 10 <hi>H.</hi> 2. in affirmance of the Common Law, which says,
+<q>The Archbishops, Bishops, and all Persons of the Kingdom, who hold of the King in chief, have their Possessions of the King as a Barony, and from thence answer to the Justices, and the King's Officers, perform all Rights and regal Customs, and as the other Barons ought
+<pb n="9" facs="tcp:205741:5"/>to be at the Judgments of the King's Court, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>In the Case of <hi>Roger Mortimer,</hi> impeach'd by the Commons in Parliament of High-Treason,
+<note place="margin">Rot. Parl. 4. E. 3. n. 1.</note>
+               <hi>Les dits Counts, Barons, &amp; Piers, come Juges au Parliament, per assent du Roy en la Parl. agarderent &amp; ajuge<g ref="char:EOLhyphen"/>rent,</hi> &amp;c.</p>
+            <p>And in the case of the Earl of <hi>Middlesex</hi> Im<g ref="char:EOLhyphen"/>peach'd by the Commons,
+<note place="margin">Journal Dom. Proc. Ann. 21. &amp; 22. J. 1.</note> the Lord-Keeper deliver<g ref="char:EOLhyphen"/>ing the Judgment of the Lords, says,</p>
+            <p>
+               <hi>The High-Court of Parliament doth adjudg,</hi> &amp;c.</p>
+            <p n="4">4th. It appearing that Deprivations were judicial Acts of Councils, and the Judgments there were the judgments of the Lords; at least that Authority has been since vested in them; Let's see whether this was ever taken away.</p>
+            <p>The Statute 24 <hi>H.</hi> 8.
+<note place="margin">24 <hi>H.</hi> 8. c. 12.</note> for the restraint of Appeals provides, that some particular Spiritual Causes there mention'd, shall be finally adjudged and determin'd within the King's Jurisdiction and Authority, in such Courts Spiritual and Temporal, as the nature of the matter shall require, without Appeal to any forein Power. Then it provides, that Appeals shall be made in <hi>Manner</hi> and <hi>Form</hi> as there follows, and <hi>not otherwise:</hi> from the Bishop to the Archbishop, to be definitive<g ref="char:EOLhyphen"/>ly decreed without Appeal to any other Person or Court;
+<note place="margin">This Statute relates not to the Case where a Jurisdicti<g ref="char:EOLhyphen"/>on is exercis'd contrary to Law.</note> if before the Archdeacon of any Archbi<g ref="char:EOLhyphen"/>shop, or his Commissary, to the <hi>Arches;</hi> from thence to the Archbishop, without further Appeal: if begun with the Archbishop, to be finally deter<g ref="char:EOLhyphen"/>min'd as that Act has appointed; which seems to be by the Archbishop alone, no Appeal being provided for from him, except where the matter concerns the
+<pb n="10" facs="tcp:205741:6"/>King, and then the Appeal is to be to the Convoca<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The Statute 25 <hi>H.</hi> 8. is more general,
+<note place="margin">25 <hi>H.</hi> 8. c. 19.</note> taking in all Spiritual Causes, and provides, that Appeals shall be prosecuted as was appointed by the former Sta<g ref="char:EOLhyphen"/>tute in the Cases there express'd; then it adds an Appeal from the Archbishop to the Delegates, and provides that no further Appeal be had or made from the said Commissioners.</p>
+            <p>Notwithstanding this it has been resolv'd that there may be a Commission of Review to other Commissioners, and so the Law is taken at this day: and the reason for it is, that the Prerogative lodged in the Crown shall not be taken away by general words: but the Prerogative of the Crown is to judg in the proper Courts; which as to the Depri<g ref="char:EOLhyphen"/>vation of Bishops, as I have shewn, is the House of Lords in Parliament.</p>
+            <p>Besides, the Statute 25 <hi>H.</hi> 8. provides, that the Causes not named in the 24th shall be tried, as others are appointed by the 24th; and by that an Appeal in a Spiritual Cause concerning the King, as the De<g ref="char:EOLhyphen"/>privation of a Bishop is, was to be determined in Convocation.</p>
+            <p>'Tis further observable, that neither of those Sta<g ref="char:EOLhyphen"/>tutes gave a Jurisdiction to the Spiritual Courts of Archbishops or others, where they had none be<g ref="char:EOLhyphen"/>fore, only provides for Appeals in Causes within their Jurisdiction: therefore matter of Deprivation, which was never within their Jurisdiction, is <hi>casus omissus</hi> out of those Statutes; and by consequence 'tis proper to petition the Lords upon their assuming such a Jurisdiction.</p>
+            <pb n="11" facs="tcp:205741:6"/>
+            <p> Tho the Statute 24 <hi>H.</hi> 8. gives no Authority to the Con<g ref="char:EOLhyphen"/>vocation to judg originally in Causes concerning the King; yet in times of Popery they supposing that the supream Au<g ref="char:EOLhyphen"/>thority in such Causes was in the Clergy,
+<note place="margin">35 <hi>H.</hi> 8. N. 25.</note> both Lords and Commons petitioned the King to grant a Commission to his Clergy in Convocation to judg of the validity of his Marriage with <hi>Ann</hi> of <hi>Cleve:</hi> yet this was not thought suf<g ref="char:EOLhyphen"/>ficient without the Assent of the King, Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, by which that Marriage was declared void. The legality of the Commission 35 <hi>H.</hi> 8. they might suppose founded upon the Statute which takes from the Pope that Headship he had assumed,
+<note place="margin">26 <hi>H.</hi> 8. c. 1.</note> and by consequence the necessity of his Consent by his <hi>Legate</hi> or otherwise to the Acts of Ecclesiastical Councils; and further annexes and unites this Authority to the Crown, and provides that the King, his Heirs and Successors, shall have full Power and Authority to visit, repress, redress, reform, and order all Errors, <hi>&amp;c.</hi> which might be by any manner of <hi>Spiritual Authority</hi> or Jurisdiction.</p>
+            <p>This seeming only to leave the Causes to the proper Courts;
+<note place="margin">1 <hi>Eliz.</hi> c. 1.</note> the Statute 1 <hi>Eliz.</hi> not only annexes all Spiritual Jurisdiction to the <hi>Imperial Crown of this Realm,</hi> but particu<g ref="char:EOLhyphen"/>larly impowers the Queen, her Heirs and Successors, to grant Ecclesiastical Commissions.</p>
+            <p>Afterwards the Act 16 <hi>Car.</hi> 1. repeals that Clause in the Statute 1 <hi>Eliz.</hi> and enacts that no new Court shall be erect<g ref="char:EOLhyphen"/>ed with like Power.
+<note place="margin">16 <hi>C.</hi> 1. c. 11.</note> Still those parts of the Statutes 26 <hi>H.</hi> 8. and 1 <hi>Eliz.</hi> which unite Spiritual Jurisdiction to the Crown, remain untouch'd; 'tis agreed that these are but de<g ref="char:EOLhyphen"/>claratory of the Common Law, upon which the Jurisdiction exercis'd by Popes, was an Usurpation. Nothing therefore is more plain, than that as antiently, while the Nation was under this Usurpation, matters of Deprivation were judg'd of in the Great Council of the Nation, with the Assent of the Pope; now they are to be judg'd and determined by the Lords Spiritual and Temporal in Parliament, without any interposition of the Pope: and all Judgments else<g ref="char:EOLhyphen"/>where are violations of the right of the Lords, who have this Jurisdiction properly, and originally.</p>
+            <p n="5">
+               <pb n="12" facs="tcp:205741:7"/> 5th. Since this Power never belong'd to Archbishops, but with others, as Members of the Great Council; there's no colour to imagine that 'tis saved by the Clause in the Act 13 <hi>Car.</hi> 2. which provides,
+<note place="margin">13 <hi>Car.</hi> 2. c. 12.</note> that the Statute 16 <hi>Car.</hi> 1. shall not <hi>take away any ordinary Power or Authority</hi> from the <hi>Archbishops,</hi> or <hi>Bishops.</hi>
+            </p>
+            <p>Besides the Evidence above, that matter of Deprivation it not within their ordinary Power; we have the Authori<g ref="char:EOLhyphen"/>ty of very learned Judges,
+<note place="margin">
+                  <hi>Dyer,</hi> f. 209.</note> Justice <hi>Brown</hi> and Justice <hi>Weston,</hi> who in the 3d and 4th of <hi>Eliz.</hi> refused to act as Delegates up<g ref="char:EOLhyphen"/>on an Appeal from a Sentence of Deprivation by the Bishop of <hi>Winchester,</hi> as Visitor of a College; because the De<g ref="char:EOLhyphen"/>privation was <hi>merely Temporal,</hi> and by a Lay Patron: where the only reason was not that the Bishop acted as a Lay Pa<g ref="char:EOLhyphen"/>tron, but as well that the Deprivation was of a Temporal Interest: and therefore the Judges held the Party might have his Remedy by Action at Common Law.</p>
+            <p>And fully to come up to this Case, the Barony annexed to the Bishoprick, is to many purposes a Lay-Fee: accord<g ref="char:EOLhyphen"/>ing to the Constitution of <hi>Clarendon,</hi> ties the Bishops to Lay Services; and upon Contempts or the like, <hi>Rex capit se ad Baroniam:</hi> but this Sentence would deprive the King of that Remedy.</p>
+            <p>Whether it naturally follows from the Premises, that the Lords in Parliament are the proper and only Judges in the Case in Question; is submitted to your Consideration by</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your very humble Servant.</signed>
+            </closer>
+            <pb facs="tcp:205741:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
